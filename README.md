@@ -1,2 +1,3 @@
 # RetroMatoHelixPlugins
-Helix plugins made by me and with the help of my friends.
+
+The plugins I put here are free of use. All I ask is for credit if you apply them on your server.
