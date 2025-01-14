@@ -29,7 +29,7 @@ SOFTWARE.
 function PLUGIN:ShouldShowPlayerOnScoreboard(client)
         local char = client:GetCharacter()
         if (char) then
-            if (char:GetFaction() == FACTION_OTA) then return false end
+            if (char:GetFaction() == FACTION_OTA) then return false end -- You can replace FACTION_OTA with whatever your faction abbreviation is.
         end
     end
 end
